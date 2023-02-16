@@ -2,9 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap");
 
 body {
-  background-color: #272821;
+  background: url(/src/assets/photo.jpg);
+
+  background-attachment: fixed;
+
+  /* background-position: center; */
+
+  /* background-color: #272821; */
+
   font-family: "Source Code Pro", monospace;
 }
