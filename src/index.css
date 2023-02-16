@@ -8,10 +8,13 @@ body {
   background: url(/src/assets/photo.jpg);
 
   background-attachment: fixed;
-
-  /* background-position: center; */
-
-  /* background-color: #272821; */
+  background-position: center;
 
   font-family: "Source Code Pro", monospace;
+  
+}
+
+.pepe h3 {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
 }
