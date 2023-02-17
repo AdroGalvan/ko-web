@@ -11,8 +11,7 @@ const Navbar = () => {
       </a>
       <div className="items-center block md:hidden">
         <a href="">
-          {" "}
-          <AiOutlineMail size={40} />{" "}
+          <AiOutlineMail size={40}/>
         </a>
       </div>
     </div>
