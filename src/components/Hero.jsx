@@ -14,8 +14,7 @@ const Hero = () => {
                     de alta complejidad que se trabaja en común acuerdo con la necesidad
                     del negocio.
                 </h1>
-                <button className="border text-[#C3FF00] font-montserrat py-2 px-8 font-medium rounded-xl hover:bg-[#C3FF00] hover:text-black transition-all duration-300 w-[200px] text-xl my-6 mx-auto ml-10 mt-16"> get started
-                </button>
+                <button className="border text-[#C3FF00] font-montserrat py-2 px-8 font-medium rounded-xl hover:bg-[#C3FF00] hover:text-black transition-all duration-300 w-[200px] text-xl my-6 mx-auto ml-10 mt-16"> get started </button>
             </div>
         </div>
     );
